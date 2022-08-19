@@ -1,0 +1,46 @@
+#H1
+{
+    background-color: rgb(233, 233, 176);
+    padding: 10px;
+}
+
+.h2 u{
+    border: 2px solid rgb(190, 221, 236);
+    border-radius: 10px;
+}
+#H1 a{
+    display: inline;
+    overflow: hidden;
+    padding: 10px;
+    background-color: rgb(92, 201, 53);
+	text-decoration: none;
+    border: 2px solid rgb(190, 221, 236);
+  border-radius: 10px;
+}
+#H1 
+{
+    background-color: rgb(160, 149, 128);
+    
+}
+h2{
+    background-color: aquamarine;
+    padding:20px;
+    margin:0px;
+}
+#home
+{
+    background-color: rgb(45, 43, 40);
+}
+li
+{
+    text-align: left;
+}
+h2{
+    background-color: rgb(65, 174, 127);
+    padding:20px;
+    margin:0px;
+}
+canvas
+{
+    background-color: white;
+}
